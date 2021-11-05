@@ -1,0 +1,341 @@
+---------------------------------------
+Vector Length =  10
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.595
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5525
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6
+
+---------------------------------------
+Vector Length =  20
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5625
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6075
+
+---------------------------------------
+Vector Length =  30
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.61
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.555
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6225
+
+---------------------------------------
+Vector Length =  40
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5675
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.605
+
+---------------------------------------
+Vector Length =  50
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.5975
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.55
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.615
+
+---------------------------------------
+Vector Length =  60
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.59
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5675
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.605
+
+---------------------------------------
+Vector Length =  70
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.605
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.56
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6125
+
+---------------------------------------
+Vector Length =  80
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.605
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.56
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.62
+
+---------------------------------------
+Vector Length =  90
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.5875
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.57
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6
+
+---------------------------------------
+Vector Length =  100
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.595
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.57
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6075
+
+---------------------------------------
+Vector Length =  110
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.5925
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.56
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.5975
+
+---------------------------------------
+Vector Length =  120
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5625
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.5975
+
+---------------------------------------
+Vector Length =  130
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.59
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.56
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.595
+
+---------------------------------------
+Vector Length =  140
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.595
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5725
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.5975
+
+---------------------------------------
+Vector Length =  150
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6025
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5675
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6075
+
+---------------------------------------
+Vector Length =  160
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6025
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.56
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.595
+
+---------------------------------------
+Vector Length =  170
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.555
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6025
+
+---------------------------------------
+Vector Length =  180
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.6
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.5725
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.6025
+
+---------------------------------------
+Vector Length =  190
+training set length: 1600
++ve samples: 801
+percentage of +ve to dataset: 50.0625
+ 
+started SVM training...
+finished SVM training
+SVM test accuracy: 0.605
+
+started Naive Bayes training...
+finished Naive Bayes training
+Naive Bayes test accuracy: 0.53
+
+started Logistic Regression training...
+finished Logistic Regression training
+Logistic Regression test accuracy: 0.61
